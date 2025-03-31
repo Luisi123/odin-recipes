@@ -1,1 +1,1 @@
-# odin-recipes
+This project is the first assigment of the odin project and will show the basic skills of html I learned.
